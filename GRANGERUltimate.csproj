@@ -8,8 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <!-- SMAPI API -->
-    <PackageReference Include="StardewModdingAPI" Version="3.14.0" />
+    <!-- SMAPI موجود عند تشغيل اللعبة، لا حاجة لتنزيله -->
   </ItemGroup>
 
 </Project>
