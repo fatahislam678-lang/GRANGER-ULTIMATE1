@@ -1,0 +1,9 @@
+{
+  "Name": "GRANGER ULTIMATE",
+  "Author": "GRANGER",
+  "Version": "1.0.0",
+  "Description": "Full shop overhaul ultimate mod",
+  "UniqueID": "GRANGER.Ultimate",
+  "EntryDll": "GRANGERUltimate.dll",
+  "MinimumApiVersion": "3.0.0"
+}
